@@ -18,6 +18,7 @@ venv.bak/
 .env
 .env.local
 .env.*.local
+!.env.example
 
 # Django specific
 *.log
