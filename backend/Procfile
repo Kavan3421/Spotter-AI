@@ -1,0 +1,1 @@
+web: gunicorn spotter_logistics.wsgi:application
